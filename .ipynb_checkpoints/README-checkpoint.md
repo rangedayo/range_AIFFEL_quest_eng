@@ -3,7 +3,7 @@
 - 기본적인 틀을 제공하며, 파일이나 폴더를 수정/업로드하여 사용합니다.
 ---
 레포 구조: 
-'''
+```
 AIFFEL_quest_eng
 ├── Computer_Vision
 │   ├── CV01
@@ -113,4 +113,4 @@ AIFFEL_quest_eng
 │       ├── .ipynb
 │       └── README.md
 └── README.md
-'''
+``` 
